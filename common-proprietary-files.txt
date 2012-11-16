@@ -98,6 +98,5 @@ usr/keylayout/gpio-keys.kl
 usr/keylayout/qwerty.kl
 usr/keylayout/sii9234_rcp.kl
 vendor/firmware/fimc_is_fw.bin
-vendor/firmware/libpn544_fw.so
 vendor/firmware/mfc_fw.bin
 vendor/firmware/setfile.bin
