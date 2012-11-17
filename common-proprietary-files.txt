@@ -3,7 +3,6 @@ bin/bcm4334_murata.hcd
 bin/bcm4334_semcosh.hcd
 bin/bintvoutservice
 bin/gps.cer
-bin/gpsd
 bin/lpmkey
 bin/playlpm
 cameradata/datapattern_420sp.yuv
@@ -24,7 +23,6 @@ etc/wifi/nvram_net.txt_semcosh
 lib/egl/libEGL_mali.so
 lib/egl/libGLESv1_CM_mali.so
 lib/egl/libGLESv2_mali.so
-lib/hw/gps.exynos4.so
 lib/hw/gralloc.smdk4x12.so
 lib/hw/hwcomposer.smdk4x12.so
 lib/hw/lights.exynos4.so
