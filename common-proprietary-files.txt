@@ -33,7 +33,6 @@ lib/libMcVersion.so
 lib/libQmageDecoder.so
 lib/libTVOut.so
 lib/libUMP.so
-lib/libakm.so
 lib/libcec.so
 lib/libddc.so
 lib/libedid.so
